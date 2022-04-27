@@ -1,0 +1,121 @@
+.App {
+	text-align: center;
+}
+
+.soft {
+	transition: 0.3s;
+}
+
+.inputGroupBox {
+	max-width: 800px;
+	margin: auto;
+}
+
+.text-box {
+	height: 200px;
+}
+
+.textCenter {
+	text-align: center;
+}
+
+.textVertical {
+	vertical-align: middle;
+}
+
+.likeBox {
+	width: auto;
+	display: block;
+	margin-top: 10px;
+	margin-bottom: 1.5rem;
+}
+
+.like {
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+}
+
+.likeText {
+	width: 100px;
+	display: inline-block;
+	font-size: 1.0rem;
+	font-weight: bold;
+	margin-left: 20px;
+}
+
+.gallery {
+	object-fit: cover;
+}
+
+.pointer {
+	cursor: pointer;
+}
+
+.delButton {
+	color: grey;
+	font-weight: lighter;
+	margin-left: 10px;
+}
+
+.innerList {
+	margin: 2px;
+}
+
+.cardCategory {
+	margin: 5px;
+	font-weight: bolder;
+	font-size: 1rem;
+}
+
+.signBox {
+	min-height: 75vh;
+	height: 100%;
+}
+
+.signForm {
+	position: relative;
+	width: 100%;
+	max-width: 330px;
+	margin: 40px;
+}
+
+.signErrMsg {
+	font-size: 0.8rem;
+	font-weight: 400;
+	color: red;
+}
+
+.singlePostImg {
+	border-radius: 20px;
+	padding: 5px;
+}
+
+.overviewImg {
+	border-radius: 20px;
+}
+
+.overviewLink {
+	padding: 5px;
+}
+
+.likeCountNum {
+	margin-left: 10px;
+}
+
+.commentText {
+	word-wrap: break-word;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.inputLabel {
+	font-size: 0.9rem;
+	color: #888;
+}
+
+.inputImages {
+	padding: auto;
+}

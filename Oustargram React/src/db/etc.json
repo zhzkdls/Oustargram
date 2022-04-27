@@ -1,0 +1,58 @@
+{
+	"categories": [
+	  {
+		"id": 1,
+		"name": "alcoholic drink"
+	  },
+	  {
+		"id": 2,
+		"name": "fruit"
+	  },
+	  {
+		"id": 3,
+		"name": "animal"
+	  },
+	  {
+		"name": "Food",
+		"id": 4
+	  },
+	  {
+		"name": "Party",
+		"id": 5
+	  },
+	  {
+		"id": 6,
+		"name": "Christmas"
+	  },
+	  {
+		"name": "Moon",
+		"id": 7
+	  },
+	  {
+		"id": 8,
+		"name": "Winter"
+	  },
+	  {
+		"name": "Architecture",
+		"id": 9
+	  }
+	],
+	"sns": [
+	  {
+		"name": "Facebook",
+		"id": 1
+	  },
+	  {
+		"name": "Twiter",
+		"id": 2
+	  },
+	  {
+		"name": "Instagram",
+		"id": 3
+	  },
+	  {
+		"name": "dsfgasd",
+		"id": 4
+	  }
+	]
+  }
